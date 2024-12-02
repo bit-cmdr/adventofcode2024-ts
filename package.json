@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day01": "node --import tsx src/day01/puzzle1.ts"
+    "day01": "node --import tsx src/day01/puzzle1.ts",
+    "day01:part2": "node --import tsx src/day01/puzzle2.ts"
   },
   "keywords": [],
   "author": "",
