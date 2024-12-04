@@ -9,7 +9,8 @@
     "day02": "node --import tsx src/day02/puzzle1.ts",
     "day02:part2": "node --import tsx src/day02/puzzle2.ts",
     "day03": "node --import tsx src/day03/puzzle1.ts",
-    "day03:part2": "node --import tsx src/day03/puzzle2.ts"
+    "day03:part2": "node --import tsx src/day03/puzzle2.ts",
+    "day04": "node --import tsx src/day04/puzzle1.ts"
   },
   "keywords": [],
   "author": "",
